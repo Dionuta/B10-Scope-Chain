@@ -1,5 +1,5 @@
-function b() {
-	console.log(myVar);
+function b() { // lexically sits on the global enviroment 	
+	console.log(myVar);//looks for myVar on the global scope.
 }
 
 function a() {

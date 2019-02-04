@@ -6,10 +6,13 @@
     
  <ul>
 
-  <li> </li>
+  <li>Scope</li>
+  <li>Scope Chain</li>
 
  </ul>
  
 <h1>Notes</h1>
 
+Scope - where can I access a varible. 
+Scope Chain - links of outer environment references.
 
