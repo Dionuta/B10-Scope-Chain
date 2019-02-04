@@ -14,5 +14,5 @@
 <h1>Notes</h1>
 
 Scope - where can I access a varible. 
-Scope Chain - links of outer environment references.
+<br>Scope Chain - links of outer environment references.
 
